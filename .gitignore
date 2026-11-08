@@ -1,0 +1,6 @@
+.vscode/
+.env
+.venv/
+venv/
+.DS_Store
+Thumbs.db
